@@ -1,0 +1,476 @@
+{
+  "updated": "2026-09-30T17:11:18Z",
+  "threshold_mb": 100,
+  "packages": [
+    {
+      "package": "LungCancerACvsSCCGEO",
+      "old_size": "139MB",
+      "current_size_bytes": 145319847,
+      "current_size_mb": 138.6,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/LungCancerACvsSCCGEO_1.49.0.tar.gz",
+      "version": "1.49.0",
+      "status": "ok"
+    },
+    {
+      "package": "lydata",
+      "old_size": "159MB",
+      "current_size_bytes": 166570619,
+      "current_size_mb": 158.9,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/lydata_1.39.0.tar.gz",
+      "version": "1.39.0",
+      "status": "ok"
+    },
+    {
+      "package": "CCl4",
+      "old_size": "111MB",
+      "current_size_bytes": 115689935,
+      "current_size_mb": 110.3,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/CCl4_1.51.0.tar.gz",
+      "version": "1.51.0",
+      "status": "ok"
+    },
+    {
+      "package": "rcellminerData",
+      "old_size": "383MB",
+      "current_size_bytes": 400603608,
+      "current_size_mb": 382,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/rcellminerData_2.35.0.tar.gz",
+      "version": "2.35.0",
+      "status": "ok"
+    },
+    {
+      "package": "hapmapsnp6",
+      "old_size": "264MB",
+      "current_size_bytes": 275957359,
+      "current_size_mb": 263.2,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/hapmapsnp6_1.55.0.tar.gz",
+      "version": "1.55.0",
+      "status": "ok"
+    },
+    {
+      "package": "SNPhoodData",
+      "old_size": "234MB",
+      "current_size_bytes": 244801179,
+      "current_size_mb": 233.5,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/SNPhoodData_1.43.0.tar.gz",
+      "version": "1.43.0",
+      "status": "ok"
+    },
+    {
+      "package": "brgedata",
+      "old_size": "297MB",
+      "current_size_bytes": 311387063,
+      "current_size_mb": 297,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/brgedata_1.35.0.tar.gz",
+      "version": "1.35.0",
+      "status": "ok"
+    },
+    {
+      "package": "aracne.networks",
+      "old_size": "204MB",
+      "current_size_bytes": 239147,
+      "current_size_mb": 0.2,
+      "under_100mb": true,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/aracne.networks_1.39.1.tar.gz",
+      "version": "1.39.1",
+      "status": "ok"
+    },
+    {
+      "package": "MMDiffBamSubset",
+      "old_size": "633MB",
+      "current_size_bytes": 663058045,
+      "current_size_mb": 632.3,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/MMDiffBamSubset_1.49.1.tar.gz",
+      "version": "1.49.1",
+      "status": "ok"
+    },
+    {
+      "package": "KEGGdzPathwaysGEO",
+      "old_size": "301MB",
+      "current_size_bytes": 314643293,
+      "current_size_mb": 300.1,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/KEGGdzPathwaysGEO_1.51.0.tar.gz",
+      "version": "1.51.0",
+      "status": "ok"
+    },
+    {
+      "package": "RNAseqData.HNRNPC.bam.chr14",
+      "old_size": "333MB",
+      "current_size_bytes": 348683595,
+      "current_size_mb": 332.5,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/RNAseqData.HNRNPC.bam.chr14_0.51.1.tar.gz",
+      "version": "0.51.1",
+      "status": "ok"
+    },
+    {
+      "package": "yeastRNASeq",
+      "old_size": "307MB",
+      "current_size_bytes": 321840048,
+      "current_size_mb": 306.9,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/yeastRNASeq_0.51.0.tar.gz",
+      "version": "0.51.0",
+      "status": "ok"
+    },
+    {
+      "package": "chipenrich.data",
+      "old_size": "107MB",
+      "current_size_bytes": 111446365,
+      "current_size_mb": 106.3,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/chipenrich.data_2.37.0.tar.gz",
+      "version": "2.37.0",
+      "status": "ok"
+    },
+    {
+      "package": "bsseqData",
+      "old_size": "128MB",
+      "current_size_bytes": 133872918,
+      "current_size_mb": 127.7,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/bsseqData_0.51.0.tar.gz",
+      "version": "0.51.0",
+      "status": "ok"
+    },
+    {
+      "package": "FlowSorted.CordBloodNorway.450k",
+      "old_size": "166MB",
+      "current_size_bytes": 173515828,
+      "current_size_mb": 165.5,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/FlowSorted.CordBloodNorway.450k_1.39.0.tar.gz",
+      "version": "1.39.0",
+      "status": "ok"
+    },
+    {
+      "package": "curatedCRCData",
+      "old_size": "399MB",
+      "current_size_bytes": 418272487,
+      "current_size_mb": 398.9,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/curatedCRCData_2.45.2.tar.gz",
+      "version": "2.45.2",
+      "status": "ok"
+    },
+    {
+      "package": "curatedOvarianData",
+      "old_size": "382MB",
+      "current_size_bytes": 399820821,
+      "current_size_mb": 381.3,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/curatedOvarianData_1.51.1.tar.gz",
+      "version": "1.51.1",
+      "status": "ok"
+    },
+    {
+      "package": "pRolocdata",
+      "old_size": "192MB",
+      "current_size_bytes": 200416621,
+      "current_size_mb": 191.1,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/pRolocdata_1.51.0.tar.gz",
+      "version": "1.51.0",
+      "status": "ok"
+    },
+    {
+      "package": "seventyGeneData",
+      "old_size": "146MB",
+      "current_size_bytes": 152115754,
+      "current_size_mb": 145.1,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/seventyGeneData_1.49.0.tar.gz",
+      "version": "1.49.0",
+      "status": "ok"
+    },
+    {
+      "package": "MEDIPSData",
+      "old_size": "159MB",
+      "current_size_bytes": 166073114,
+      "current_size_mb": 158.4,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/MEDIPSData_1.49.0.tar.gz",
+      "version": "1.49.0",
+      "status": "ok"
+    },
+    {
+      "package": "nanotubes",
+      "old_size": "118MB",
+      "current_size_bytes": 123274223,
+      "current_size_mb": 117.6,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/nanotubes_1.29.0.tar.gz",
+      "version": "1.29.0",
+      "status": "ok"
+    },
+    {
+      "package": "RTCGA.methylation",
+      "old_size": "623MB",
+      "current_size_bytes": 653009587,
+      "current_size_mb": 622.8,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/RTCGA.methylation_1.39.0.tar.gz",
+      "version": "1.39.0",
+      "status": "ok"
+    },
+    {
+      "package": "RTCGA.mutations",
+      "old_size": "104MB",
+      "current_size_bytes": 108859743,
+      "current_size_mb": 103.8,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/RTCGA.mutations_20151101.41.0.tar.gz",
+      "version": "20151101.41.0",
+      "status": "ok"
+    },
+    {
+      "package": "RTCGA.PANCAN12",
+      "old_size": "214MB",
+      "current_size_bytes": 224291465,
+      "current_size_mb": 213.9,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/RTCGA.PANCAN12_1.39.0.tar.gz",
+      "version": "1.39.0",
+      "status": "ok"
+    },
+    {
+      "package": "RTCGA.rnaseq",
+      "old_size": "613MB",
+      "current_size_bytes": 642336322,
+      "current_size_mb": 612.6,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/RTCGA.rnaseq_20151101.41.0.tar.gz",
+      "version": "20151101.41.0",
+      "status": "ok"
+    },
+    {
+      "package": "VariantToolsData",
+      "old_size": "201MB",
+      "current_size_bytes": 210492773,
+      "current_size_mb": 200.7,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/VariantToolsData_1.37.0.tar.gz",
+      "version": "1.37.0",
+      "status": "ok"
+    },
+    {
+      "package": "Oct4",
+      "old_size": "193MB",
+      "current_size_bytes": {},
+      "current_size_mb": {},
+      "under_100mb": {},
+      "tarball_url": {},
+      "version": {},
+      "status": "not_in_views"
+    },
+    {
+      "package": "macrophage",
+      "old_size": "512MB",
+      "current_size_bytes": 94827049,
+      "current_size_mb": 90.4,
+      "under_100mb": true,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/macrophage_1.29.1.tar.gz",
+      "version": "1.29.1",
+      "status": "ok"
+    },
+    {
+      "package": "tximportData",
+      "old_size": "386MB",
+      "current_size_bytes": 100316117,
+      "current_size_mb": 95.7,
+      "under_100mb": true,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/tximportData_1.41.1.tar.gz",
+      "version": "1.41.1",
+      "status": "ok"
+    },
+    {
+      "package": "BeadArrayUseCases",
+      "old_size": "198MB",
+      "current_size_bytes": 207209107,
+      "current_size_mb": 197.6,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/BeadArrayUseCases_1.51.0.tar.gz",
+      "version": "1.51.0",
+      "status": "ok"
+    },
+    {
+      "package": "minionSummaryData",
+      "old_size": "135MB",
+      "current_size_bytes": 141228143,
+      "current_size_mb": 134.7,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/minionSummaryData_1.43.0.tar.gz",
+      "version": "1.43.0",
+      "status": "ok"
+    },
+    {
+      "package": "PCHiCdata",
+      "old_size": "184MB",
+      "current_size_bytes": 192201148,
+      "current_size_mb": 183.3,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/PCHiCdata_1.41.0.tar.gz",
+      "version": "1.41.0",
+      "status": "ok"
+    },
+    {
+      "package": "AssessORFData",
+      "old_size": "145MB",
+      "current_size_bytes": 151635074,
+      "current_size_mb": 144.6,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/AssessORFData_1.31.0.tar.gz",
+      "version": "1.31.0",
+      "status": "ok"
+    },
+    {
+      "package": "ChIPexoQualExample",
+      "old_size": "153MB",
+      "current_size_bytes": 159656373,
+      "current_size_mb": 152.3,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/ChIPexoQualExample_1.37.0.tar.gz",
+      "version": "1.37.0",
+      "status": "ok"
+    },
+    {
+      "package": "RnBeads.hg38",
+      "old_size": "134MB",
+      "current_size_bytes": 140164020,
+      "current_size_mb": 133.7,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/RnBeads.hg38_1.45.0.tar.gz",
+      "version": "1.45.0",
+      "status": "ok"
+    },
+    {
+      "package": "RnBeads.mm10",
+      "old_size": "150MB",
+      "current_size_bytes": 156317033,
+      "current_size_mb": 149.1,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/RnBeads.mm10_2.21.0.tar.gz",
+      "version": "2.21.0",
+      "status": "ok"
+    },
+    {
+      "package": "RnBeads.hg19",
+      "old_size": "101MB",
+      "current_size_bytes": 104985275,
+      "current_size_mb": 100.1,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/RnBeads.hg19_1.45.0.tar.gz",
+      "version": "1.45.0",
+      "status": "ok"
+    },
+    {
+      "package": "RnBeads.rn5",
+      "old_size": "107MB",
+      "current_size_bytes": 112034221,
+      "current_size_mb": 106.8,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/RnBeads.rn5_1.45.0.tar.gz",
+      "version": "1.45.0",
+      "status": "ok"
+    },
+    {
+      "package": "WGSmapp",
+      "old_size": "196MB",
+      "current_size_bytes": 205218189,
+      "current_size_mb": 195.7,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/WGSmapp_1.25.0.tar.gz",
+      "version": "1.25.0",
+      "status": "ok"
+    },
+    {
+      "package": "topdownrdata",
+      "old_size": "101MB",
+      "current_size_bytes": 105758490,
+      "current_size_mb": 100.9,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/topdownrdata_1.35.0.tar.gz",
+      "version": "1.35.0",
+      "status": "ok"
+    },
+    {
+      "package": "mtbls2",
+      "old_size": "184MB",
+      "current_size_bytes": 192024063,
+      "current_size_mb": 183.1,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/mtbls2_1.43.0.tar.gz",
+      "version": "1.43.0",
+      "status": "ok"
+    },
+    {
+      "package": "systemPipeRdata",
+      "old_size": "278MB",
+      "current_size_bytes": 33414104,
+      "current_size_mb": 31.9,
+      "under_100mb": true,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/systemPipeRdata_2.17.1.tar.gz",
+      "version": "2.17.1",
+      "status": "ok"
+    },
+    {
+      "package": "pumadata",
+      "old_size": "102MB",
+      "current_size_bytes": 106627959,
+      "current_size_mb": 101.7,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/pumadata_2.49.0.tar.gz",
+      "version": "2.49.0",
+      "status": "ok"
+    },
+    {
+      "package": "seqc",
+      "old_size": "180MB",
+      "current_size_bytes": 187800249,
+      "current_size_mb": 179.1,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/seqc_1.47.0.tar.gz",
+      "version": "1.47.0",
+      "status": "ok"
+    },
+    {
+      "package": "metaMSdata",
+      "old_size": "122MB",
+      "current_size_bytes": 127803490,
+      "current_size_mb": 121.9,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/metaMSdata_1.49.0.tar.gz",
+      "version": "1.49.0",
+      "status": "ok"
+    },
+    {
+      "package": "WES.1KG.WUGSC",
+      "old_size": "374MB",
+      "current_size_bytes": 391390260,
+      "current_size_mb": 373.3,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/WES.1KG.WUGSC_1.45.0.tar.gz",
+      "version": "1.45.0",
+      "status": "ok"
+    },
+    {
+      "package": "TargetScoreData",
+      "old_size": "207MB",
+      "current_size_bytes": 216253575,
+      "current_size_mb": 206.2,
+      "under_100mb": false,
+      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/TargetScoreData_1.49.0.tar.gz",
+      "version": "1.49.0",
+      "status": "ok"
+    }
+  ]
+}
