@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T17:11:18Z",
+  "updated": "2026-10-01T12:50:52Z",
   "threshold_mb": 100,
   "packages": [
     {
@@ -70,16 +70,6 @@
       "under_100mb": false,
       "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/brgedata_1.35.0.tar.gz",
       "version": "1.35.0",
-      "status": "ok"
-    },
-    {
-      "package": "aracne.networks",
-      "old_size": "204MB",
-      "current_size_bytes": 239147,
-      "current_size_mb": 0.2,
-      "under_100mb": true,
-      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/aracne.networks_1.39.1.tar.gz",
-      "version": "1.39.1",
       "status": "ok"
     },
     {
@@ -273,26 +263,6 @@
       "status": "not_in_views"
     },
     {
-      "package": "macrophage",
-      "old_size": "512MB",
-      "current_size_bytes": 94827049,
-      "current_size_mb": 90.4,
-      "under_100mb": true,
-      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/macrophage_1.29.1.tar.gz",
-      "version": "1.29.1",
-      "status": "ok"
-    },
-    {
-      "package": "tximportData",
-      "old_size": "386MB",
-      "current_size_bytes": 100316117,
-      "current_size_mb": 95.7,
-      "under_100mb": true,
-      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/tximportData_1.41.1.tar.gz",
-      "version": "1.41.1",
-      "status": "ok"
-    },
-    {
       "package": "BeadArrayUseCases",
       "old_size": "198MB",
       "current_size_bytes": 207209107,
@@ -410,16 +380,6 @@
       "under_100mb": false,
       "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/mtbls2_1.43.0.tar.gz",
       "version": "1.43.0",
-      "status": "ok"
-    },
-    {
-      "package": "systemPipeRdata",
-      "old_size": "278MB",
-      "current_size_bytes": 33414104,
-      "current_size_mb": 31.9,
-      "under_100mb": true,
-      "tarball_url": "https://bioconductor.org/packages/3.24/data/experiment/src/contrib/systemPipeRdata_2.17.1.tar.gz",
-      "version": "2.17.1",
       "status": "ok"
     },
     {
